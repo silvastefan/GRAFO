@@ -1,0 +1,7 @@
+id_pessoa;id_processo;nome;prioridade_do_negocio;esforco_do_usuario;tempo_em_minutos
+1;1;Relatório Bradesco Mau Uso;Alto;Alto;120
+1;2;Validação de descredenciamento de estabelecimento;Alto;Alto;90
+1;3;Informações de contratos emergenciais;Alto;Alto;90
+1;4;Avaliação de Estabelecimentos;Médio;Médio;60
+1;5;Acompanhamento Transacional;Médio;Médio;60
+1;6;Processos pontuais e Avaliações preventivas;Variável;Variável;999
